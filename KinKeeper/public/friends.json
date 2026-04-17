@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Kamil Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/11.jpg",
+    "email": "kamil.ahmed@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during first year at university. Used to work on programming assignments together.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Lipi Khatun",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "lipi.khatun@gmail.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["school", "best friend"],
+    "bio": "School friend who now lives in Dhaka. We usually catch up over long phone calls.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 3,
+    "name": "Zubayer Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/13.jpg",
+    "email": "zubayer.hossain@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "startup"],
+    "bio": "Worked together on a hackathon project. Always discussing new startup ideas.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 4,
+    "name": "Sonia Akter",
+    "picture": "https://randomuser.me/api/portraits/women/14.jpg",
+    "email": "sonia.akter@gmail.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["university", "group study"],
+    "bio": "Used to study together during exam weeks. Haven't talked since last semester.",
+    "goal": 14,
+    "next_due_date": "2026-04-07"
+  },
+  {
+    "id": 5,
+    "name": "Emon Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/men/15.jpg",
+    "email": "emon.chowdhury@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["gym", "fitness"],
+    "bio": "Gym partner who motivates me to stay consistent with workouts.",
+    "goal": 14,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 6,
+    "name": "Rina Begum",
+    "picture": "https://randomuser.me/api/portraits/women/16.jpg",
+    "email": "rina.begum@gmail.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["family friend", "travel"],
+    "bio": "Family friend who loves traveling. We plan trips together occasionally.",
+    "goal": 21,
+    "next_due_date": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "name": "Fahim Shahriar",
+    "picture": "https://randomuser.me/api/portraits/men/17.jpg",
+    "email": "fahim.shahriar@gmail.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["football", "neighborhood"],
+    "bio": "Childhood friend from neighborhood. Used to play football every evening.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 8,
+    "name": "Mitu Islam",
+    "picture": "https://randomuser.me/api/portraits/women/18.jpg",
+    "email": "mitu.islam@gmail.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["design", "freelance"],
+    "bio": "Met through freelance design work. Often share client opportunities.",
+    "goal": 14,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 9,
+    "name": "Nayeem Uddin",
+    "picture": "https://randomuser.me/api/portraits/men/19.jpg",
+    "email": "nayeem.uddin@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["gaming", "online friend"],
+    "bio": "Online gaming buddy. We usually play Valorant on weekends.",
+    "goal": 14,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 10,
+    "name": "Jannat Tara",
+    "picture": "https://randomuser.me/api/portraits/women/20.jpg",
+    "email": "jannat.tara@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["university", "project partner"],
+    "bio": "Worked together on final year project. Still share tech resources.",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  }
+]
